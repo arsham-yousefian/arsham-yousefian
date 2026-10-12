@@ -22,6 +22,12 @@ My goal is to develop strong technical foundations, build meaningful projects, a
 - Python & Software Engineering
 - Intelligent Systems
 
+## 🛠️ Technologies & Skills
+
+- **Programming:** Python
+- **Core Areas:** Artificial Intelligence, Machine Learning
+- **Tools:** Git, GitHub
+
 ## 🎯 Current Focus
 
 - Strengthening programming and computer science fundamentals
