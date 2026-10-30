@@ -39,8 +39,6 @@ More projects and detailed documentation will be added as I continue building an
 ## 🤝 Connect With Me
 
 - **GitHub:** https://github.com/arsham-yousefian
-- **LinkedIn:** 
-
+- **LinkedIn:** www.linkedin.com/in/arsham-yousefian-08a356427
 ---
-
 *Learning, building, and improving one project at a time.*
